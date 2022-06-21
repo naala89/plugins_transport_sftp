@@ -9,7 +9,7 @@
     "storage",
     "flysystem",
     "file",
-    "sftp",
+    "sftp"
   ],
   "type": "package",
   "license": "MIT",
